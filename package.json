@@ -1,0 +1,22 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinSono/learning-nodejs.git"
+  },
+  "author": "edwinsono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwinSono/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/EdwinSono/learning-nodejs#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
